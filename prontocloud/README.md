@@ -34,3 +34,13 @@
 - Post para redes sociais: texto + foto + url curta
 - Incluir hospedagem (servidor web) 
 - Git - histórico de evolução (commits detalhados)
+
+### URL
+Uniform resource Locator
+
+-URL amigável:humanos e mecanismo de busca
+https://ulr.gratis/xao9Ni
+https://abaconlaine.com.br/front-end-profession
+
+
+
